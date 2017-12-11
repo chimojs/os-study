@@ -1,2 +1,2 @@
-# os_study
+# os-study
 This is used to study operating system.
